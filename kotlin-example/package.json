@@ -1,0 +1,25 @@
+{
+    "name": "kotlin-example",
+    "version": "1.0.0",
+    "description": "kotlin-example",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack-dev-server"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@reactivex/rxjs": "^5.5.6",
+        "pixi.js": "^4.7.0",
+        "rxjs": "^5.5.6"
+    },
+    "devDependencies": {
+        "@jetbrains/kotlin-extensions": "^1.0.0-pre.16",
+        "@jetbrains/kotlin-webpack-plugin": "^1.2.1",
+        "@types/pixi.js": "^4.6.3",
+        "html-webpack-plugin": "^2.30.1",
+        "kotlin": "^1.2.21",
+        "webpack": "^3.10.0",
+        "webpack-dev-server": "^2.11.1"
+    }
+}
